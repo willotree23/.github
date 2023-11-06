@@ -29,7 +29,10 @@ This study aimed to test whether free-ranging animals would choose to cooperate 
 
 ## Abstract
 
-> Paste here the abstract.
+For animals, choosing the right partners can mean the difference between success or failure at a cooperative task. A number of studies in captivity have explored the extent to which animals can identify characteristics that make individuals better or worse at completing a joint task, and whether animals use such information when choosing partners, with mixed evidence. Our study set out to test if free-ranging animals would choose to cooperate with partners that give a greater payoff in a cooperative task under natural conditions. We presented wild Guinea baboons (Papio papio) with paired boxes that yielded food only if operated simultaneously. The baboons could freely choose between potential partners that varied in their ability to extract food rewards from the boxes. During test trials, the baboons repeatedly solved the two-box task, though in a manner that suggests they failed to grasp the role of the partner. Instead of free partner choice, two males monopolized access to one set of paired boxes each, and pulled with whichever partners sat next to them. Monopolization of the boxes did not extend to the food, which males allowed juveniles, females, and other males to feed on. Unfortunately, we were forced to terminate our study after only three days because the baboons behaved too aggressively against the researchers after the test trials. Though we were unsuccessful in running our study to completion, our experiences can be useful for those planning cooperative field experiments in the future.![image](https://github.com/CooperationboxExp/.github/assets/40757416/bceb3734-54e5-4be0-a3ca-4ff21d956d99)
+
+## Accompanying videos
+https://www.youtube.com/playlist?list=PLwD_i507VU-pmtOSVgkoEqazCkhaTZw32 
 
 ## Manuscript
 
