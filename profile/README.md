@@ -35,12 +35,18 @@ This study aimed to test whether free-ranging animals would choose to cooperate 
 
 ## Abstract
 
-> Paste here the abstract.
+Choosing the right partners can mean the difference between success or failure at a cooperative task. Several studies in captivity have explored the extent to which animals can identify characteristics that make individuals better or worse at completing a joint task and whether animals use such information when choosing partners, with mixed evidence. Our study set out to test if free-ranging animals chose to cooperate with partners that provided a greater payoff in a cooperative task under natural conditions. We presented wild Guinea baboons (Papio papio) with paired boxes that yielded food only if operated simultaneously. The baboons could freely choose between potential partners that varied in their ability to extract food rewards from the boxes. During test trials, the baboons repeatedly solved the two-box task, though in a manner that suggests they failed to grasp the partner's role. Instead of varied partner choice, two males each monopolized access to one set of paired boxes and pulled with whichever partners sat next to them. Monopolization of the boxes did not extend to the food reward, which males allowed juveniles, females, and other males to feed on. Unfortunately, we were forced to terminate our study after only three days because the baboons behaved too aggressively toward researchers after test trials. Though we were unsuccessful in running our study to completion, our experiences can be useful for those planning cooperative field experiments in the future.
+![image](https://github.com/CooperationboxExp/.github/assets/40757416/89f96f96-edf4-414e-ac41-c45576ad808f)
+
 
 ## Manuscript
 
 The Manuscript of the paper is archived in
 the `Manuscript` repository at [https://github.com/CooperationboxExp/Manuscript](https://github.com/CooperationboxExp/Manuscript).
+
+## Video content 
+The following link is to a youtube playlist of the boxes being used in the experiment. 
+[https://www.youtube.com/playlist?list=PLwD_i507VU-pmtOSVgkoEqazCkhaTZw32](url) 
 
 ## Hardware concept
 
