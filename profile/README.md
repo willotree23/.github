@@ -3,12 +3,13 @@
 # Lessons learned from a cooperative box experiment with wild baboons
 
 by
-William O’Hearn<sup>1, 2*</sup>, Louis Frank<sup>1, 2</sup>, Stefanie Keupp<sup>1, 2</sup>, Julia Fischer<sup>1, 2</sup>
+William O’Hearn<sup>1, 3*</sup>, Louis Frank<sup>1, 2</sup>, Stefanie Keupp<sup>1, 3</sup>, Julia Fischer<sup>1, 3</sup>
 
 ## Affiliations
 
 1. Cognitive Ethology Laboratory, German Primate Center, Göttingen, Germany
-2. Leibniz ScienceCampus Primate Cognition, Göttingen, Germany
+2. Cognitive Neuroscience Laboratory, German Primate Center, Göttingen, Germany
+3. Leibniz ScienceCampus Primate Cognition, Göttingen, Germany
 
 \* corresponding author
 
