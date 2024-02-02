@@ -46,7 +46,7 @@ the `Manuscript` repository at [https://github.com/CooperationboxExp/Manuscript]
 ## Video Content
 
 The following link leads to a youtube playlist of the boxes being used in the training and testing phases of the experiment
-[https://www.youtube.com/playlist?list=PLwD_i507VU-pmtOSVgkoEqazCkhaTZw32](url)
+[![Cooperation Box Video Playlist](https://img.youtube.com/vi/h2P83JANP-4hkCvP/0.jpg)](https://www.youtube.com/playlist?list=PLwD_i507VU-pmtOSVgkoEqazCkhaTZw32)
 
 ## Hardware concept
 
