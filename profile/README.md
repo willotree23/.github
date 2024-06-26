@@ -1,4 +1,4 @@
-![header](img/header.jpg)
+![header](../img/header.jpg)
 
 # Lessons learned from a cooperative box experiment with wild baboons
 
@@ -29,7 +29,7 @@ Julia Fischer: [ORCID 0000-0002-5807-0074](https://orcid.org/0000-0002-5807-0074
 
 This study aimed to test whether free-ranging animals would choose to cooperate with partners to achieve a greater payoff in a cooperative task under natural conditions. Wild Guinea baboons were presented with paired boxes that yielded food only if both levers were pulled simultaneously, and the baboons could freely choose between potential partners that varied in their ability to extract food rewards from the boxes. However, the study was terminated, because the baboons behaved too aggressively against the researchers after the first test trials.
 
-![apparatus](img/food-box-with-lever.jpg)
+![apparatus](../img/food-box-with-lever.jpg)
 
 *Food box with lever*
 
@@ -50,7 +50,7 @@ The following link leads to a youtube playlist of the boxes being used in the tr
 
 ## Hardware concept
 
-![hw concept](img/concept_cereal.svg)
+![hw concept](../img/concept_cereal.svg)
 
 ## Hardware implementation
 
@@ -68,7 +68,7 @@ See the `README.md` file in the repository for a full description.
 
 You can download a copy of all the files in the repositories by cloning them using [git](https://git-scm.com/) or as a zip file under the "Code" button:
 
-![code-git](img/code-git.png)
+![code-git](../img/code-git.png)
 
 A copy of the repositories is also archived at *insert DOI here*
 
